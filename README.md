@@ -8,7 +8,7 @@ Tengo conocimientos en C#, MySQL, HTML.
 Actualmente me interesa aprender java, python y a desarrollar aplicaciones moviles. 
 
 #### **Contenido**
-- [C0.1 Integrar Equipos de Trabajo](/blog/)
+- [C0.1 Integrar Equipos de Trabajo](/blog/C0.1_JuanSandoval_JMM.md)
 - [C0.2 Cuestionario I4.0](/blog/C0.2_cuestionario.md)
 - [C1.1 Cuestionario Electrónica Básica y sus Elementos](/blog/C1.1_JuanSandoval_JMM.md)
 - [C1.2 Circuito Electrónico Básico](/blog/C1.2_JuanSandoval_JMM.md) 
