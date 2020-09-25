@@ -8,5 +8,7 @@ Tengo conocimientos en C#, MySQL, HTML.
 Actualmente me interesa aprender java, python y a desarrollar aplicaciones moviles. 
 
 #### **Contenido**
-*  1. CO.1 - Conformación del equipo.
-*  2. CO.2 - Industria 4.0 e IoT. 
+- [C0.1 Integrar Equipos de Trabajo](/blog/C1.2_JuanSandoval_JMM.md)
+- [C0.2 Cuestionario I4.0](/blog/C0.2_cuestionario.md)
+- [C1.1 Cuestionario Electrónica Básica y sus Elementos](/blog/C1.1_JuanSandoval_JMM.md)
+- [C1.2 Circuito Electrónico Básico](/blog/C1.2_JuanSandoval_JMM.md) 
